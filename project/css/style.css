@@ -1,0 +1,298 @@
+body{
+
+background-color:green;
+}
+#outer{
+height:1600px;
+width:1000px;
+//border:1px solid white;
+margin:0px auto;
+}
+#nav{
+height:50px;
+width:1000px;
+background-color:white;
+border-radius:25px 25px 0 0;
+}
+#nav1{
+height:50px;
+width:800px;
+float:left;
+}
+#nav2{
+height:50px;
+width:200px;
+float:right;
+margin-left:0;
+}
+#slider{
+height:250px;
+width:1000px;
+background-color:white;
+margin-top:5px;
+background-image:url('../images/sofa.png');
+background-repeat:no-repeat;
+background-size:cover;
+
+}
+#papa{
+height:1000px;
+width:1000px;
+//border:1px solid white;
+margin-top:5px;
+}
+#left{
+height:1000px;
+width:700px;
+background-color:white;
+float:left;
+border-radius:0 0 0 25px;
+}
+#right{
+height:1000px;
+width:300px;
+background-color:#b3e6b6;
+float:right;
+border-radius:0 0 25px 0;
+}
+h2{
+margin-left:30px;
+font-family:Arial;
+font-weight:normal;
+}
+
+#right ul{
+list-style-type:none;
+}
+#right ul li{
+display:block;
+padding:8px 0px;
+margin-right:20px;
+}
+#right li a{
+color:grey;
+text-decoration:none;
+font-size:20px;
+}
+
+#footer{
+height:270px;
+width:1000px;
+background-color:white;
+border-radius:25px;
+margin-top:20px;
+}
+
+.box{
+height:230px;
+width:300px;
+//border:1px solid black;
+margin:20px 0 0 25px;
+float:left;
+}
+#image6{
+height:60px;
+width:70px;
+background-image:url('../images/technology.png');
+margin-left:10px;
+background-size:100% 100%;
+padding:7px;
+float:left;
+border:2px solid grey;
+}
+#image5{
+height:60px;
+width:70px;
+background-image:url('../images/face.png');
+margin-left:10px;
+background-size:100% 100%;
+padding:7px;
+float:left;
+border:2px solid grey;
+}
+#image4{
+height:60px;
+width:70px;
+background-image:url('../images/google4.png');
+margin-left:10px;
+background-size:100% 100%;
+padding:7px;
+float:left;
+border:2px solid grey;
+}
+#image3{
+height:60px;
+width:70px;
+background-image:url('../images/google4.png');
+margin-left:10px;
+background-size:100% 100%;
+padding:7px;
+float:left;
+border:2px solid grey;
+
+margin-top:10px;
+
+}
+#image2{
+height:60px;
+width:70px;
+background-image:url('../images/amzone.png');
+margin-left:10px;
+background-size:100% 100%;
+padding:7px;
+float:left;
+border:2px solid grey;
+
+margin-top:10px;
+
+}
+#image1{
+height:60px;
+width:70px;
+background-image:url('../images/google4.png');
+margin-left:10px;
+background-size:100% 100%;
+padding:7px;
+float:left;
+border:2px solid grey;
+margin-top:10px;
+}
+#nav1 ul{
+list-style-type:none;
+}
+#nav1 ul li{
+display:inline-block;
+width:80px;
+padding:8px 0px;
+text-align:center;
+//border:1px solid black;
+margin-right:60px;
+}
+#nav1 ul li a{
+color:grey;
+text-decoration:none;
+}
+#nav ul li:hover{
+background:darkgrey;
+}
+#nav2 ul{
+list-style-type:none;
+}
+#nav2 ul li{
+display:inline-block:none;
+width:100px;
+height:10px;
+}
+input{
+width:150px;
+}
+h1{
+font-family:arial;
+padding:10px;
+margin-left:30px;
+
+}
+.postinfo{
+    margin-left:40px;
+    color:gray;
+    font-size:12px;
+    font-family:Arial;
+}
+
+.postinfo a{
+    color:#8bc34a;
+    text-decoration:none;
+}
+
+.postinfo a:hover{
+    text-decoration:underline;
+}
+#image{
+height:200px;
+width:650px;
+border:1px solid;
+margin-left:40px;
+background-image:url('../images/image_cafc2282.png');
+background-repeat:no-repeat;
+background-size:100% 100%;
+
+}
+#one{
+height:100px;
+widht:630px;
+margin-left:40px;
+border-bottom:1px solid grey;
+}
+#one a{
+    color:#8bc34a;
+    text-decoration:none;
+}
+
+#one a:hover{
+    text-decoration:underline;
+}
+p{
+line-height:20px;
+    color:gray;
+    font-size:12px;
+    font-family:Arial;
+margin-left:10px;
+
+}
+#second{
+height:330px;
+widht:700px;
+border-bottom:1px solid grey;
+margin-left:40px;}
+p2{
+line-height:20px;
+    color:gray;
+    font-size:12px;
+    font-family:Arial;
+
+text-align:justify;
+}
+p2 a{
+
+
+    color:#8bc34a;
+    text-decoration:none;
+}
+
+p2 a:hover{
+    text-decoration:underline;
+}
+#second a{
+    color:#8bc34a;
+    text-decoration:none;
+}
+
+#second a:hover{
+    text-decoration:underline;
+}
+#papa2{
+height:30px;
+width:650px;
+}
+#AN{
+float:left;
+color:grey;
+margin-left:30px;
+}
+#pagination{
+margin:20pxpx 0 0 40px;
+float:right;
+}
+#pagination a{
+text-decoration:none;
+padding:5px 10px;
+boder:1px solid #ccc;
+margin-right:5px;
+color:green;
+}
+#pagunation a:hover{
+background:lightgreen;
+}
+#pagination p{
+float:left;
+}
